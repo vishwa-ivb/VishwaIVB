@@ -1,0 +1,404 @@
+#title {
+  background-color: #5D8BF4;
+  padding-top: 3%;
+  padding-bottom: 5%;
+}
+.csc{
+  height: 250px;
+}
+.certiwords{
+
+  padding-left: 5%;
+}
+#carousalhead{
+  background-color: #5D8BF4;
+  padding: 1%;
+  padding-top: 4%;
+  text-align: center;
+}
+
+#features {
+
+  background-color: #DFF6FF;
+  color: #5D8BF4;
+  padding: 2% 6%;
+  text-align:center;
+  position: relative;
+}
+
+a {
+color: black;
+text-decoration: none;
+cursor: auto;
+}
+.big2sm{
+  height: 80px;
+  color: white;
+  padding-left: 10%;
+  padding-bottom: 4%;
+}
+
+#fas{
+
+  color: #5D8BF4;
+}
+/* .fa-solid{
+  color: white;
+} */
+.f1{
+  align-items: center;
+  padding: 0 6%;
+}
+.ft{
+  color: grey;
+}
+p{
+  color: grey;
+}
+hr{
+  padding: 0;
+  margin:0;
+}
+.ctat{
+  font-family: Secular One;
+  color: white;
+}
+.ctat2{
+  font-family: Secular One;
+  color:black ;
+}
+.carousalhead:hover{
+  color: black;
+}
+.f1{
+  color:black;
+}
+.fab{
+ font-size: 50px;
+ padding-left: 3%;
+ padding-right: 3%;
+ padding-bottom: 5%;
+}
+#fab{
+ font-size: 50px;
+ padding-left: 3%;
+ padding-right: 3%;
+ padding-bottom: 5%;
+}
+.makecentre{
+  text-align: center;
+}
+.img{
+  font-size: 250%;
+  padding-bottom: 50px;
+  padding-top: 50px;
+  color: #5D8BF4;
+}
+.img:hover{
+  color: #051367;
+}
+#lang{
+  background: #5D8BF4;
+}
+#nav {
+  background-color: #051367;
+  padding: -10%;
+}
+.tam{
+  margin-top: 2%;
+}
+
+.h101 {
+  padding-left: 20%;
+  padding-right: 15%;
+  padding-top: 10%;
+  padding-bottom: 5%;
+  font-family:Dancing Script;
+  font-weight: bolder;
+  font-size: 350%;
+  color: white;
+  text-align: center;
+}
+.tw{
+  color: white;
+  padding-left: 20%;
+  padding-right: 15%;
+  font-family:Dancing Script;
+  text-align: center;
+  word-spacing: 10px;
+}
+
+.dbone {
+
+  margin-top: 2%;
+}
+
+.dbtwo {
+  margin-top: 2%;
+  margin-left: 3%;
+}
+
+
+
+
+.navbar-brand {
+  padding-left: 3%;
+  font-size: 400%;
+  font-family: aladin;
+}
+
+.navbar-nav {
+  font-size: 20px;
+}
+
+.cf {
+  /* padding-top: 15px;
+  padding-bottom: 15px;
+  padding-left: 0;
+  padding-right: 0; */
+  padding: 0;
+}
+
+.container-fluid {
+  padding: 1%;
+  padding-top: 1%;
+}
+#testimonials{
+  background-color: #5D8BF4;
+  padding:3% 6%;
+  text-align: center;
+}
+#testimonials2{
+  background-color: #5D8BF4;
+  padding:3% 6%;
+  text-align: center;
+}
+#testimonials3{
+  background-color: #5D8BF4;
+  padding:3% 6%;
+  text-align: center;
+}
+#testimonials4{
+  background-color: #5D8BF4;
+  padding:3% 6%;
+  text-align: center;
+}
+#testimonials5{
+  background-color: #5D8BF4;
+  padding:3% 6%;
+  text-align: center;
+}
+
+.t2{
+  text-align: center;
+  padding: 20% 0;
+}
+
+#press{
+  background-color: #5D8BF4;
+  padding:4% 12% 2%;
+}
+.c1{
+  height: 40%;
+}
+.c2{
+  height: 60%;
+  padding-left: 25%;
+
+}
+.c3{
+  height: 30%;
+}
+.c4{
+  height: 30%;
+}
+.card-body{
+  text-align: center;
+}
+.card2{
+margin-top: 17%;
+}
+.card3{
+margin-top: 28%;
+}
+.card-header{
+  font-weight: bolder;
+
+  background-color:black;
+  color:white;
+}
+.d{
+  font-family:  Medium500;
+}
+#pricing{
+  background-color: #5D8BF4;
+  padding: 2% 10%;
+  text-align: center;
+}
+.price-col{
+  padding-top: 5%;
+}
+.ima {
+  position: absolute;
+  left: 7%;
+}
+
+
+#cta{
+  text-align: center;
+  background-color: #DFF6FF;
+  padding: 4%
+}
+.ctat{
+  padding-bottom: 1%;
+}
+.ctab{
+    margin-left: 0px;
+}
+.ctab2{
+  margin-left:  5%;
+}
+#footer{
+  text-align:center;
+  padding: 3%;
+}
+
+@media (max-width: 1025px) {
+  .ima {
+    height: 90%;
+    transform: rotate(0);
+    padding-top: 5%;
+    position: static;
+    align-content: center;
+  }
+.decsize{
+  padding: 0 -25%;;
+}
+  #title {
+    text-align: center;
+  }
+  .db1one {
+    margin-left: 0px;
+    margin-top: 0%;
+  }
+
+  .db2two {
+    margin-top: 5%;
+  }
+  .card3{
+  margin-top: 18%;
+  }
+
+.navbar-toggler{
+  font-size: 200%;
+  margin-right: 10%;
+}
+.nav-link{
+  font-size: 200%;
+}
+.h101{
+  padding-left: 20%;
+  padding-right: 15%;
+  padding-top: 0%;
+  padding-bottom: 5%;
+  font-family:Dancing Script;
+  font-weight: bolder;
+  font-size: 550%;
+  color: white;
+  text-align: center;
+  }
+  .tw{
+    color: white;
+    padding-left: 20%;
+    padding-right: 15%;
+    padding-bottom: 5%;
+    font-family:Dancing Script;
+    text-align: center;
+    word-spacing: 10px;
+    font-size: 250%;
+  }
+  .dbone {
+
+    margin-top: 2%;
+    font-size: 250%;
+  }
+
+  .dbtwo {
+    margin-top: 2%;
+    margin-left: 3%;
+    font-size: 250%;
+  }
+  .pfe{
+    font-size: 250%;
+  }
+  .ft{
+    font-size: 150%;
+  }
+  .img{
+    height: 35%;
+    padding-bottom: 10%;
+  }
+  .ctat{
+    font-size: 300%;
+  }
+  .csc{
+    height: 35%;
+    padding: 5% 5%;
+  }
+  .t2{
+    padding: 0;
+    margin: 0;
+  }
+  .f1{
+    padding: 0;
+    margin: 0;
+  }
+  #testimonials{
+    background-color: #5D8BF4;
+    padding:3% ;
+    text-align: center;
+  }
+  #testimonials2{
+    background-color: #5D8BF4;
+    padding:3% ;
+    text-align: center;
+  }
+  #testimonials3{
+    background-color: #5D8BF4;
+    padding:3%;
+    text-align: center;
+  }
+  #testimonials4{
+    background-color: #5D8BF4;
+    padding:3%;
+    text-align: center;
+  }
+  #testimonials5{
+    background-color: #5D8BF4;
+    padding:3%;
+    text-align: center;
+  }
+  em{
+    padding: 0;
+    margin:0;
+  }
+  .rt{
+    height: 600px;
+  }
+  .cs{
+  font: 100px;
+  }
+  .pc{
+    height: 50%;
+  }
+  .pct{
+    padding-top: 5%;
+  }
+  #sml{
+     height: 500px;
+  }
+  .tam{
+    margin-top: 2%;
+    font-size: 250%;
+  }
+}
