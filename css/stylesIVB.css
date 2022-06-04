@@ -188,6 +188,12 @@ hr{
   padding:3% 6%;
   text-align: center;
 }
+#testimonials6{
+  background-color: #5D8BF4;
+  padding:3% 6%;
+  text-align: center;
+}
+
 
 .t2{
   text-align: center;
@@ -374,6 +380,11 @@ margin-top: 28%;
     text-align: center;
   }
   #testimonials5{
+    background-color: #5D8BF4;
+    padding:3%;
+    text-align: center;
+  }
+  #testimonials6{
     background-color: #5D8BF4;
     padding:3%;
     text-align: center;
