@@ -42,6 +42,9 @@ cursor: auto;
 
   color: #5D8BF4;
 }
+#fas:hover{
+  color: #051367;
+}
 /* .fa-solid{
   color: white;
 } */
